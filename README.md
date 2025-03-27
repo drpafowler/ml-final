@@ -1,4 +1,5 @@
 # Project Title
+Regression Project 
 
 ## My package
 Description of your package.
@@ -7,14 +8,8 @@ Description of your package.
 Overview of your project.
 
 ## Author(s)
-List of authors.
+Philip Fowler
 
-## Usage
-Instructions on how to use your project.
-```python3
->>> import mypackage
->>> mypackage.do_stuff()
+
 ```
-            
-## Installation
-Instructions on how to install your project.
+
