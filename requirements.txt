@@ -1,0 +1,13 @@
+# List of dependencies
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+xgboost
+kaggle
+kagglehub
+ipywidgets
