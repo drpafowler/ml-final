@@ -2,7 +2,7 @@
 Regression Project 
 
 
-## Model Evaluation Heatmap
+## Model Evaluation 
 
 ![Model Evaluation Heatmap](images/model_evaluation_heatmap.png)
 ## My package
