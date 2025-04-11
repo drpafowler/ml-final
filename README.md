@@ -1,19 +1,16 @@
-# Project Title
-Regression Project 
-
+# Regression Project 
+[Notebook: regression_fowler.ipynb](https://github.com/drpafowler/ml-final/blob/main/final.ipynb)
+[Dataset: Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 ## Model Evaluation 
 
 ![Model Evaluation Heatmap](images/model_evaluation_heatmap.png)
-## My package
-Description of your package.
+
+The key observation from this model is that obesity and smoking are two predictors of higher health care costs. The highest costs are associated with both those individuals that are obese and smokers.  
 
 ## Overview
-Overview of your project.
+This project seeks to build a regression model to predict health care costs based on a number of variables.
 
 ## Author(s)
 Philip Fowler
-
-
-```
 
