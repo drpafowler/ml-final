@@ -2,7 +2,7 @@
 Notebook: [regression_fowler.ipynb](https://github.com/drpafowler/ml-final/blob/main/regression_fowler.ipynb) </br>
 Dataset: [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) </br>
 Date: 10 April 2025 </br>
-Peer Review: [peer_review.md]()
+Peer Review: [peer_review.md](https://github.com/drpafowler/ml-final/blob/main/peer_review.md)
 
 ## Overview
 This project seeks to build a regression model to predict health care costs based on a number of variables.
