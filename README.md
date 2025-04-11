@@ -1,5 +1,5 @@
 # Regression Project 
-[Notebook: regression_fowler.ipynb](https://github.com/drpafowler/ml-final/blob/main/final.ipynb)
+[Notebook: regression_fowler.ipynb](https://github.com/drpafowler/ml-final/blob/main/final.ipynb) </br>
 [Dataset: Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 ## Model Evaluation 
